@@ -332,7 +332,6 @@ date,slug,trackers,cookies,fingerprinting,sessionRecording,keystrokeCapture,sha2
 2026-04-03,furaffinity,17,19,false,false,false,161ad55de5ad81e5b608ec428b06d0c6918c7168816c5f9d2912c9751bc3bdc1
 2026-04-03,futapo,3,8,true,false,false,c729dbd0b096e1847b45e1cade2be35a86ebba9197c436c7cafea8c27fb2a049
 2026-04-03,fux,1,0,false,false,false,183144f23a61e0a55d169a911874bd4ecb05ea091a6073c7761970e9f5fb6f9d
-2026-04-03,gamcore,0,2,false,false,false,2cd1b72c14c01c0c81ba2af28f1d34502cfcec1e5a46d38f0fcdbccf19c0358d
 2026-04-03,gay-wire,0,1,false,false,false,be3d254968fd913b9c3e4f62f3a78791001165285c8db69925b5307fd3d2ffb9
 2026-04-03,gayauthors,3,1,false,false,false,9c08262e4804c7b750b77a85a1b43f9015b2fcb47c9b7bf133c3036969e5d781
 2026-04-03,gaydar,0,0,false,false,false,3879d3cc74565de432c1237ad82f89687548f9f7c25260cf4df95ada48a436da
@@ -986,3 +985,4 @@ date,slug,trackers,cookies,fingerprinting,sessionRecording,keystrokeCapture,sha2
 2026-04-03,zerotolerancefilms,1,1,false,false,true,dd851abdc577cfdb3ed635e002df9f5795c2f24e8ac6d40b59f0c2beb07b627d
 2026-04-03,zishy,0,0,false,false,false,b722a54fe515c502141dfab0c2142d06a5ed354699c1d33ccf335c31bffe0247
 2026-04-03,zoosk,0,0,false,false,false,1c24dc1a8fad39a4c6a91f7479631b0b6202d8d5ce5d85d525a60b1ee95b82ca
+2026-04-03,gamcore,0,0,false,false,false,a24bb6a18b2bd9f1be90fe2d2be992aaf9e9d94f88a21a6f778d84780c503f1b
